@@ -21,7 +21,7 @@
         "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus6.jpeg?raw=true"
       ],
       "size": 126097628,
-      "minOSVersion": "15.0",
+      "minOSVersion": "14.0",
       "appPermissions": {
         "entitlements": [
             {
