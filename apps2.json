@@ -1,0 +1,104 @@
+{
+   "apps": [
+     {
+       "beta": false,
+       "bundleIdentifier": "com.google.ios.youtube",
+       "developerName": "LillieH1000, zachary7829 & arichornlover",
+       "downloadURL": "https://tinyurl.com/262fbj2x",
+       "iconURL": "https://raw.githubusercontent.com/arichornlover/YouTube-Reborn-v5/main/layout/Library/Application%20Support/YouTubeReborn.bundle/ytrebornbuttonblack.png",
+       "localizedDescription": "YouTube Reborn is the best tweak when it comes to customization and video downloading towards the YouTube app.",
+       "name": "YouTubeRebornPlus",
+       "screenshotURLs": [
+         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/1.png?raw=true",
+         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/3.png?raw=true",
+         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/4.png?raw=true",
+         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/5.png?raw=true",
+         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/6.png?raw=true",
+         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/7.png?raw=true",
+         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/8.png?raw=true"
+       ],
+       "size": 118141199,
+       "minOSVersion": "15.0",
+       "subtitle": "Supercharged with a ton of tweaks for the YouTube app.",
+       "tintColor": "0f0f0f",
+       "version": "19.23.3",
+       "versionDate": "2024-06-11",
+       "versionDescription": "YouTubeRebornPlus has YouTube Reborn v4.2.8 in the tweak. and works for Altstore Users : changelog can be found in https://github.com/arichornlover/YouTubeRebornPlus/releases/tag/v19.23.3-4.2.8",
+       "appPermissions": {
+        "entitlements": [
+            {
+              "name": "com.apple.security.application-groups"
+            },
+            {
+              "name": "com.apple.developer.associated-domains"
+            },
+            {
+              "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
+            },
+            {
+              "name": "com.apple.developer.usernotifications.time-sensitive"
+            },
+            {
+              "name": "get-task-allow"
+            },
+            {
+              "name": "com.apple.developer.device-information.user-assigned-device-name"
+            },
+            {
+              "name": "com.apple.developer.group-session"
+            },
+            {
+              "name": "keychain-access-groups"
+            },
+            {
+              "name": "com.apple.developer.networking.multicast"
+            },
+            {
+              "name": "aps-environment"
+            },
+            {
+              "name": "com.apple.developer.networking.wifi-info"
+            }
+          ],
+          "privacy": [
+            {
+              "name": "AppleMusic",
+              "usageDescription": "This lets you add your own audio files to your videos."
+            },
+            {
+              "name": "BluetoothPeripheral",
+              "usageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices."
+            },
+            {
+              "name": "Camera",
+              "usageDescription": "This lets you create videos using the app."
+            },
+            {
+              "name": "Contacts",
+              "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+            },
+            {
+              "name": "LocalNetwork",
+              "usageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV."
+            },
+            {
+              "name": "LocationWhenInUse",
+              "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+            },
+            {
+              "name": "Microphone",
+              "usageDescription": "This lets you include audio with your videos and search using your voice."
+            },
+            {
+              "name": "PhotoLibrary",
+              "usageDescription": "This lets you upload media you've already created."
+            }
+          ]
+        }
+      }
+   ],
+   "identifier": "com.arichorn.source",
+   "name": "YouTubeRebornPlus Source",
+   "news": [],
+   "userInfo": {}
+  }
