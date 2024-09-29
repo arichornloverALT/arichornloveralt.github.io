@@ -8,7 +8,7 @@
       "contact": {
           "web": "https://github.com/arichornlover/uYouEnhanced"
       },
-      "downloadURL": "https://tinyurl.com/y3uu3pha",
+      "downloadURL": "https://tinyurl.com/4n8jwfv5",
       "iconURL": "https://raw.githubusercontent.com/arichornlover/uYouEnhanced/1314354bff6ef07aca60d7b9a77bd91a5f985ab4/Localizations/uYouPlus.bundle/AppIcons/AppIcon4.png",
       "localizedDescription": "uYou is the best tweak for the YouTube app.\n \n uYouEnhanced is a modified version of qnblackcat's uYouPlus & MiRO92's uYou with even more features.\n \n Additional features:\n • Skip sponsorships in videos (iSponsorBlock)\n • Even more PiP options (YouPiP)\n • Unlock 1440p and 2160p resolutions (YTUHD)\n • Disable overlay at the end of videos (YTNoHoverCards)\n • Remove YouTube Premium upsell alerts (NoYTPremium)\n • Enable to Dim the YouTube UI (LowContrastMode)\n • Enable the miniplayer for all videos (YTMiniplayerEnabler)\n • Prevent the notch/Dynamic Island from cutting into 2:1 videos (DontEatMyContent)\n • Configure A/B settings in the YouTube app (YTABConfig)\n • Adds a new button in the Video Player that allows you to copy a url with the ?t=timestamp (YouTimeStamp)\n • And more\n \n More information: \n https://github.com/arichornlover/uYouEnhanced/ \n \n Requires iOS/iPadOS 15.0 or later.\n \n Contributors: qnblackcat, PoomSmart, level3tjg, BandarHelal, galactic, julioverne, Foxster, CokePokes, arichornlover, bhackel and many others. \n\n Credits: MiRO92, HASHBANG, galactic, Lyvendia, ichitaso, Ahmed Bafkir, Tommy Teo, Dayanch96, theos, dodieboy, balackburn and many others.",
       "name": "uYouEnhanced",
@@ -95,9 +95,9 @@
         },
       "subtitle": "The best tweak for the YouTube app just got even better",
       "tintColor": "e81e8a",
-      "version": "19.21.2",
-      "versionDate": "2024-05-28",
-      "versionDescription": "• Updated YouTube to v19.21.2\n • uYou is using 3.0.4\n • uYouEnhanced Localization Support\n • Dropped iOS 14 Support (From: Google/YouTube v19.21.2 release)\n • New Options: Disable Animated YouTube Logo, Shorts Quality Picker, New Settings UI & Auto-Hide Home Bar - arichornlover & bhackel\n • Limited Options to iPhone-only: Enable Portrait Fullscreen & Hide Fullscreen Action Buttons - arichornlover & bhackel\n • Added a new button (uYouEnhanced Settings): Copy Settings\n • New Tweak: YouTimeStamp\n • Fixed AdBlock not working in Videos for AdBlock Workaround (Lite) - PoomSmart/YouTube-X\n • Updated Submodules"
+      "version": "19.33.2",
+      "versionDate": "2024-09-25",
+      "versionDescription": "• Updated YouTube to v19.33.2\n • uYou is using 3.0.4\n • uYouEnhanced Localization Support\n • New Tweak: YouLoop\n • New Option: YouTube Sign-in fix\n • Fixed youtube-native-share from crashing when using.\n • Updated Submodules"
     }
   ],
   "identifier": "com.uyouplusextra.source",
